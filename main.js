@@ -1,7 +1,3 @@
-const x = 10
-console.log(x);
+const food = "pizza"
 
-// error fixed
-
-const y = 20
-console.log(y)
+console.log("I want", food);
